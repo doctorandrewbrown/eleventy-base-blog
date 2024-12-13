@@ -7,7 +7,7 @@ tags: ["test"]
 # Code Test
 ```python
 if (true):
-    x = 5
+    x = 20
 else:
     x = 10
 ```
