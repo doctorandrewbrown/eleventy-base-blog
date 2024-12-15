@@ -11,3 +11,12 @@ if (true):
 else:
     x = 10
 ```
+## Javascript
+```javascript
+export default {
+	tags: [
+		"posts"
+	],
+	"layout": "layouts/post.njk",
+};
+```
